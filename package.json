@@ -20,6 +20,9 @@
     "prettier": "^1.19.1"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "async-each": "^1.0.3",
+    "errto": "^0.2.1",
+    "express": "^4.17.1",
+    "stack-trace": "^0.0.10"
   }
 }
