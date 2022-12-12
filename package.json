@@ -22,7 +22,7 @@
   "dependencies": {
     "async-each": "^1.0.3",
     "errto": "^0.2.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "stack-trace": "^0.0.10"
   }
 }
